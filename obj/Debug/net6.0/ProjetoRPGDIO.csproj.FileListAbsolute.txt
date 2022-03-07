@@ -1,0 +1,15 @@
+C:\workspace\ProjetoRPGDIO\bin\Debug\net6.0\ProjetoRPGDIO.exe
+C:\workspace\ProjetoRPGDIO\bin\Debug\net6.0\ProjetoRPGDIO.deps.json
+C:\workspace\ProjetoRPGDIO\bin\Debug\net6.0\ProjetoRPGDIO.runtimeconfig.json
+C:\workspace\ProjetoRPGDIO\bin\Debug\net6.0\ProjetoRPGDIO.dll
+C:\workspace\ProjetoRPGDIO\bin\Debug\net6.0\ProjetoRPGDIO.pdb
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.csproj.AssemblyReference.cache
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.AssemblyInfoInputs.cache
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.AssemblyInfo.cs
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.csproj.CoreCompileInputs.cache
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.dll
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\refint\ProjetoRPGDIO.dll
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.pdb
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ProjetoRPGDIO.genruntimeconfig.cache
+C:\workspace\ProjetoRPGDIO\obj\Debug\net6.0\ref\ProjetoRPGDIO.dll
